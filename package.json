@@ -42,6 +42,7 @@
     "hubot-weather-ja": "0.0.1",
     "linda": "^1.2",
     "lodash": "^2.4.1",
+    "redis": "^0.12.1",
     "request": "^2.36.0",
     "socket.io-client": "^1.1"
   },
