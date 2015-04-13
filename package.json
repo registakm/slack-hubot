@@ -45,10 +45,9 @@
     "hubot-slack": "^3.3.0",
     "hubot-tabelog": "0.0.4",
     "hubot-weather-ja": "0.0.1",
-    "linda": "^1.2",
+    "hubot-linda": "git://github.com/shokai/hubot-linda.git",
     "lodash": "^3.3.1",
-    "request": "^2.36.0",
-    "socket.io-client": "^1.3"
+    "request": "^2.36.0"
   },
   "devDependencies": {
     "coffeelint": "*",
