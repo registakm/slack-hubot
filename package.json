@@ -44,6 +44,7 @@
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-linda": "0.0.7",
     "hubot-maps": "0.0.2",
+    "hubot-osietekun": "git://github.com/shokai/hubot-osietekun.git",
     "hubot-pugme": "^0.1.0",
     "hubot-rss-reader": "^0.6.7",
     "hubot-rules": "^0.1.0",
