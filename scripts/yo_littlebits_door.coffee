@@ -1,4 +1,13 @@
-# Yoでドアを開ける
+# Description:
+#   Yoでドアを開ける、チャットから権限を管理できる
+#
+# Commands:
+#   hubot ドア開けて
+#   hubot [USERNAME] 鍵あげる
+#   hubot [USERNAME] 鍵返して
+#
+# Author:
+#   @shokai
 
 request = require 'request'
 
