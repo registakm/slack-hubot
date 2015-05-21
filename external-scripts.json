@@ -1,7 +1,6 @@
 [
   "hubot-brain-redis-hash",
   "hubot-linda",
-  "hubot-osietekun",
   "hubot-sfc-bus",
   "hubot-coveralls",
   "hubot-gohan",
