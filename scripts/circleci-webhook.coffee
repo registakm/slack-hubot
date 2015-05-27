@@ -14,6 +14,8 @@ module.exports = (robot) ->
   robot.router.post '/circleci-webhook', (req, res) ->
     debug 'received /circleci-webhook'
 
+    console.error JSON.stringify req.body.payload, null, 2
+
     room = req.query.room or config.room
     room = "##{room}" unless /^#/.test room
     status    = req.body.payload?.status

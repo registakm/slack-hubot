@@ -8,4 +8,4 @@ deployment:
       appname: masuilab-hubot2
 notify:
   webhooks:
-    - url: https://masuilab-hubot2.herokuapp.com/circleci-webhook?room=slack-hubot
+    - url: http://test2.shookai.org/circleci-webhook?room=slack-hubot
